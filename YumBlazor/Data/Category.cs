@@ -8,5 +8,7 @@ namespace YumBlazor.Data
 
         [Required(ErrorMessage ="Please enter name...")]
         public string Name { get; set; }
+
+      
     }
 }
